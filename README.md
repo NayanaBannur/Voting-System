@@ -1,4 +1,4 @@
-#Voting System
+# Voting System
 
 This project is a voting system for school student council elections. 
 
